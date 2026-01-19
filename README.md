@@ -11,21 +11,6 @@ Static pages: Built entirely with HTML and CSS — no backend or JavaScript requ
 Custom styling: CSS-driven design with reusable components.
 
 
-Project Structure
-<br>
-Frontend-main-momo/
-│
-├── momos_frontend-main/   # Main project folder
-│   ├── index.html         # Homepage
-│   ├── styles.css         # Global styles
-│   ├── assets/            # Images, icons, and other static files
-│   └── pages/             # Additional HTML pages
-│
-├── .gitattributes         # Git configuration
-└── README.md              # Project documentation
-
-<br>
-
 Installation & Setup
 <br>
 1) git clone https://github.com/Elina-codes-py/Frontend-main-momo.git
