@@ -9,7 +9,6 @@ Responsive design: Works across desktop, tablet and mobile devices. <br>
 Clean UI: Simple and intuitive interface for users. <br>
 Static pages: Built entirely with HTML and CSS — no backend or JavaScript required.<br>
 Custom styling: CSS-driven design with reusable components.
-<br>
 
 <br>
 Installation & Setup <br>
@@ -17,7 +16,6 @@ Installation & Setup <br>
 2) cd Frontend-main-momo/momos_frontend-main
 
 <br>
-
 Tech Stack
 <br>
 HTML: Structure and content <br>
