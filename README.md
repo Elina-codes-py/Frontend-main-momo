@@ -3,7 +3,7 @@ A simple frontend momo-themed website built with HTML and CSS. This project demo
 
 <br>
 Features <br>
-Responsive design: Works across desktop, tablet, and mobile devices.
-Clean UI: Simple and intuitive interface for users.
-Static pages: Built entirely with HTML and CSS — no backend or JavaScript required.
+Responsive design: Works across desktop, tablet, and mobile devices. <br>
+Clean UI: Simple and intuitive interface for users. <br>
+Static pages: Built entirely with HTML and CSS — no backend or JavaScript required.<br>
 Custom styling: CSS-driven design with reusable components.
